@@ -10,3 +10,4 @@ for i in lis:
     if(i==a):
         print(f"{a} found at {id}")
     id+=1
+print("Indexing starts from 1")
